@@ -4,7 +4,7 @@
 * train_percentage ：训练集比例，0~1
 * 2018.10.3
 ***
-目录结构
+目录树
 
      path\to\dataset
 
