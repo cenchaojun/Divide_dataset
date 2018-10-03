@@ -10,6 +10,10 @@ path\to\dataset
 
 ├─ class1
 
+      ├─ picture1
+   
+      ├─ picture2
+
 ├─ class2
 
 ├─ ...
