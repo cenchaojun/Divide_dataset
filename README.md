@@ -6,7 +6,7 @@
 ***
 * 目录树
 
- path\to\dataset
+     path\to\dataset
 
      ├─ class1
 
