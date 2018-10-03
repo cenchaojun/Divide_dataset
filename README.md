@@ -8,11 +8,13 @@
 
 path\to\dataset
 
-├─class1
+├─ class1
 
-├─class2
+├─ class2
 
-└─...
+├─ ...
+
+└─ classn
 ***
 * 划分前
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/devision_img/a.png)
