@@ -1,8 +1,7 @@
 # 随机划分数据集为训练集和测试集
-* 主要参数：
-* Train_dir = "D:/Train"
-* Test_dir = "D:/Test"
-* train_percentage = 0.8 #训练集比例，(0,1)
+* Train_dir ：原数据集的路径
+* Test_dir ：测试集路径
+* train_percentage ：训练集比例，0~1
 ***
 * 划分前
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/devision_img/a.png)
