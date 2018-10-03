@@ -1,6 +1,6 @@
 # 随机划分数据集为训练集和测试集
 * Train_dir ：原数据集的路径
-* Test_dir ：测试集路径
+* Test_dir ：测试集保存路径
 * train_percentage ：训练集比例，0~1
 * 2018.10.3
 ***
