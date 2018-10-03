@@ -6,6 +6,13 @@
 ***
 * 目录树
 
+path\to\dataset
+
+├─class1
+
+├─class2
+
+└─...
 ***
 * 划分前
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/devision_img/a.png)
@@ -13,8 +20,3 @@
 * 划分后
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/devision_img/b.png)
 ![](https://github.com/Leotemp/mymarkdownphoto/raw/master/devision_img/c.png)
-├─sparseresidential
-
-├─storagetanks
-
-└─tenniscourt
